@@ -6,3 +6,7 @@ http://corporate.tuenti.com/en/dev/blog/functions-and-execution-contexts-in-java
 http://ryanmorr.com/understanding-scope-and-context-in-javascript/
 
 http://www.slideshare.net/jdmedina17/javascript-execution-context
+
+http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/
+
+
