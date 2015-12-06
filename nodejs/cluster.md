@@ -7,3 +7,5 @@ http://www.sitepoint.com/how-to-create-a-node-js-cluster-for-speeding-up-your-ap
 
 http://www.alloyteam.com/2015/08/nodejs-cluster-tutorial/
 
+https://www.digitalocean.com/community/tutorials/how-to-use-pm2-to-setup-a-node-js-production-environment-on-an-ubuntu-vps
+
