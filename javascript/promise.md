@@ -14,3 +14,8 @@ http://www.html5rocks.com/zh/tutorials/es6/promises/ JavaScript Promises
 http://www.2ality.com/2014/10/es6-promises-api.html
 
 http://exploringjs.com/es6/ch_promises.html Promises for asynchronous programming(ÀíÂÛ+Êµ¼ù)
+
+http://modernjavascript.blogspot.jp/2013/08/promisesa-understanding-by-doing.html
+
+https://blogs.msdn.microsoft.com/ie/2011/09/11/asynchronous-programming-in-javascript-with-promises/
+
