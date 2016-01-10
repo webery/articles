@@ -13,3 +13,4 @@ https://liuzhichao.com/p/1669.html Node.js模块 require和 exports
 
 http://blog.csdn.net/puncha/article/details/11237955 Nodejs之require加载机制（模块可以污染全局空间）
 
+http://www.hacksparrow.com/node-js-exports-vs-module-exports.html
