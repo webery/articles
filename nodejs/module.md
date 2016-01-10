@@ -1,7 +1,15 @@
 
 http://www.sitepoint.com/understanding-module-exports-exports-node-js/
 
-http://www.infoq.com/cn/articles/nodejs-module-mechanism ÉîÈëÇ³³öNode.js£¨Èı£©£ºÉîÈëNode.jsµÄÄ£¿é»úÖÆ
+http://www.infoq.com/cn/articles/nodejs-module-mechanism æ·±å…¥æµ…å‡ºNode.jsï¼ˆä¸‰ï¼‰ï¼šæ·±å…¥Node.jsçš„æ¨¡å—æœºåˆ¶
 
-http://www.html-js.com/article/A-day-to-learn-JavaScript-understanding-Nodejs-in-moduleexports-and-exports Àí½âNode.jsÖĞµÄmodule.exportsºÍexports
+http://www.html-js.com/article/A-day-to-learn-JavaScript-understanding-Nodejs-in-moduleexports-and-exports ç†è§£Node.jsä¸­çš„module.exportså’Œexports
+
+require
+
+http://www.ruanyifeng.com/blog/2015/05/require.html require() æºç è§£è¯»
+
+https://liuzhichao.com/p/1669.html Node.jsæ¨¡å— requireå’Œ exports
+
+http://blog.csdn.net/puncha/article/details/11237955 Nodejsä¹‹requireåŠ è½½æœºåˆ¶ï¼ˆæ¨¡å—å¯ä»¥æ±¡æŸ“å…¨å±€ç©ºé—´ï¼‰
 
