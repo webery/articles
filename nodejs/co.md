@@ -1,3 +1,5 @@
 
-http://www.html-js.com/article/3016 Òì²½±à³ÌÖ®co¡ª¡ªÔ´Âë·ÖÎö
+http://www.html-js.com/article/3016 å¼‚æ­¥ç¼–ç¨‹ä¹‹coâ€”â€”æºç åˆ†æ
+
+https://cnodejs.org/topic/553fa3e62bd4939b1e9055a3 coçš„å®ç°ï¼ˆPromiseåŒ–çš„4.Xç‰ˆï¼‰
 
