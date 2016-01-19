@@ -1,2 +1,2 @@
 # articles
-collection of articles
+collection of IT articles & websites
