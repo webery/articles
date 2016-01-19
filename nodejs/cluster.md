@@ -1,7 +1,7 @@
 
 http://nodeapi.ucdok.com/api/cluster.html
 
-http://www.tuicool.com/articles/YjMVBf 解读Nodejs多核处理模块cluster
+http://www.tuicool.com/articles/YjMVBf 瑙ｈNodejs澶氭牳澶勭悊妯″潡cluster
 
 http://www.sitepoint.com/how-to-create-a-node-js-cluster-for-speeding-up-your-apps/
 
