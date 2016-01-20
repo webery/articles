@@ -1,5 +1,7 @@
 
-http://morning.work/page/2015-11/nodejs_buffer.html Node.jsµÄBufferÄÇĞ©Äã¿ÉÄÜ²»ÖªµÀµÄÓÃ·¨
+https://cnodejs.org/topic/5189ff4f63e9f8a54207f60c æµ…ænodejsçš„bufferç±»
 
-https://cnodejs.org/topic/4f16442ccae1f4aa27001067 Node Buffer/Stream ÄÚ´æ²ßÂÔ·ÖÎö
+http://morning.work/page/2015-11/nodejs_buffer.html Node.jsçš„Bufferé‚£äº›ä½ å¯èƒ½ä¸çŸ¥é“çš„ç”¨æ³•
+
+https://cnodejs.org/topic/4f16442ccae1f4aa27001067 Node Buffer/Stream å†…å­˜ç­–ç•¥åˆ†æ
 
