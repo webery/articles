@@ -1,2 +1,4 @@
 
-http://web.jobbole.com/83881/ 解读 JavaScript 异步函数
+http://web.jobbole.com/83881/ 瑙ｈ JavaScript 寮傛鍑芥暟
+
+http://segmentfault.com/a/1190000004322358 JavaScript锛氬交搴曠悊瑙ｅ悓姝ャ�佸紓姝ュ拰浜嬩欢寰幆(Event Loop)
