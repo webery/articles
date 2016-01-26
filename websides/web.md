@@ -19,3 +19,7 @@ http://docs.nodejitsu.com/ Nodejs基础知识介绍
 
 http://www.codeceo.com/ 码农网
 
+http://ued.taobao.org/blog/ 淘宝UED
+
+http://taobaofed.org/ 淘宝FED
+
