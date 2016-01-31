@@ -23,3 +23,10 @@ http://mongoosejs.com/docs/guide.html 文档
 https://cnodejs.org/topic/504b4924e2b84515770103dd Mongoose学习参考文档——基础篇
 
 https://cnodejs.org/topic/5206581b44e76d216aae072e Mongoose Guide
+
+(2)Node-MySQL (事务，连接池，多个数据源)
+
+https://github.com/felixge/node-mysql 仓库
+
+
+
