@@ -28,5 +28,11 @@ https://cnodejs.org/topic/5206581b44e76d216aae072e Mongoose Guide
 
 https://github.com/felixge/node-mysql 仓库
 
+(3)Sequelize (ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server，支持事务)
+
+https://github.com/sequelize/sequelize 仓库
+
+http://sequelize.readthedocs.org/en/latest/ 文档
+
 
 
