@@ -7,6 +7,8 @@ http://www.html-js.com/article/A-day-to-learn-JavaScript-understanding-Nodejs-in
 
 https://cnodejs.org/topic/5231a630101e574521e45ef8 exports 和 module.exports 的区别
 
+https://cnodejs.org/topic/55b044399594740e76ab3e91 Node.js挖掘之五：浅析模块加载流程,我们的应用如何启动以及如何加载依赖模块
+
 Require
 
 http://www.ruanyifeng.com/blog/2015/05/require.html require() 源码解读
