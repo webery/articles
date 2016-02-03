@@ -38,3 +38,6 @@ http://sequelize.readthedocs.org/en/latest/ 文档
 
 https://github.com/XadillaX/Toshihiko 仓库
 
+Redis
+
+https://github.com/luin/ioredis 
