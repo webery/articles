@@ -5,6 +5,8 @@ http://www.infoq.com/cn/articles/nodejs-module-mechanism 深入浅出Node.js（�
 
 http://www.html-js.com/article/A-day-to-learn-JavaScript-understanding-Nodejs-in-moduleexports-and-exports 理解Node.js中的module.exports和exports
 
+https://cnodejs.org/topic/5231a630101e574521e45ef8 exports 和 module.exports 的区别
+
 Require
 
 http://www.ruanyifeng.com/blog/2015/05/require.html require() 源码解读
