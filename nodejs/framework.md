@@ -34,5 +34,7 @@ https://github.com/sequelize/sequelize 仓库
 
 http://sequelize.readthedocs.org/en/latest/ 文档
 
+(4)Toshihiko 极简 ORM目前花瓣网和大搜车都有项目在用
 
+https://github.com/XadillaX/Toshihiko 仓库
 
