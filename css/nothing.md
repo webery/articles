@@ -9,3 +9,7 @@ http://mp.weixin.qq.com/s?__biz=MjM5MzMyNzg0MA==&mid=401273509&idx=3&sn=68d411a7
 Hover
 
 http://tympanus.net/Development/HoverEffectIdeas/
+
+伪类
+
+http://web.jobbole.com/85083/ CSS 巧用 :before和:after
