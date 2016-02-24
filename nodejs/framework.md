@@ -54,6 +54,8 @@ http://sequelize.readthedocs.org/en/latest/ 文档
 
 https://segmentfault.com/a/1190000003987871#articleHeader28 Sequelize 和 MySQL 对照
 
+http://www.cnblogs.com/codor/p/4719142.html sequelize中的association使用讲解，nodejs
+
 (4)Toshihiko 极简 ORM目前花瓣网和大搜车都有项目在用
 
 https://github.com/XadillaX/Toshihiko 仓库
