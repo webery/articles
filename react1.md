@@ -21,6 +21,7 @@ https://github.com/lewis617/react-redux-tutorial React+Redux系列教程
 
 http://www.tuicool.com/articles/vEnMFzz 深入到源码：解读 redux 的设计思路与用法
 
+http://www.alloyteam.com/2015/09/react-redux/ React 数据流管理架构之 Redux 介绍
 
 
 
