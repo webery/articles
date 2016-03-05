@@ -17,6 +17,8 @@ Redux
 
 http://div.io/topic/1309 深入到源码：解读redux 的设计思路与用法
 
+https://github.com/lewis617/react-redux-tutorial React+Redux系列教程
+
 
 
 
