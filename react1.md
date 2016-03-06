@@ -13,7 +13,9 @@ https://github.com/enaqx/awesome-react A collection of awesome things regarding 
 
 https://github.com/webpack/react-starter Starter template for react and webpack.
 
+http://www.ibm.com/developerworks/cn/web/1509_dongyue_react/ React 介绍及实践教程
 
+https://www.ibm.com/developerworks/cn/web/wa-react-intro/ React：创建可维护、高性能的 UI 组件
 
 React-router
 
