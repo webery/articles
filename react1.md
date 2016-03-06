@@ -17,6 +17,8 @@ http://www.ibm.com/developerworks/cn/web/1509_dongyue_react/ React 介绍及实�
 
 https://www.ibm.com/developerworks/cn/web/wa-react-intro/ React：创建可维护、高性能的 UI 组件
 
+http://www.infoq.com/cn/articles/react-art-of-simplity 深入浅出React（一）：React的设计哲学 - 简单之美
+
 React-router
 
 https://github.com/reactjs/react-router
