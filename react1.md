@@ -31,6 +31,10 @@ http://www.tuicool.com/articles/iAvmyuj 深入理解 react-router 路由系统
 
 http://www.tuicool.com/articles/zaInUbA 整理了一份React-Native学习指南
 
+http://www.cnblogs.com/ppforever/p/5229045.html 细说React(二)
+
+http://zhenhua-lee.github.io/react/history.html?utm_source=tuicool&utm_medium=referral react-router的实现原理
+
 Redux
 
 http://div.io/topic/1309 深入到源码：解读redux 的设计思路与用法
