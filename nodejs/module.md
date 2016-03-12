@@ -19,6 +19,8 @@ http://blog.csdn.net/puncha/article/details/11237955 Nodejs之require加载机�
 
 http://www.hacksparrow.com/node-js-exports-vs-module-exports.html
 
+http://www.html-js.com/article/meitianxuedianjavascript-Nodejsmokuaijiekouqidashejimoshi?utm_source=tuicool&utm_medium=referral Node.js模块接口七大设计模式
+
 Repl
 
 https://cnodejs.org/topic/565715c7b1e04fda51bcdf53 Node.js 启动方式：一道关于全局变量的题目引发的思考
