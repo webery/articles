@@ -1,21 +1,22 @@
 
-https://promisesaplus.com/ Promises/A+¹æ·¶
+https://promisesaplus.com/ Promises/A+è§„èŒƒ
 
-https://cnodejs.org/topic/560dbc826a1ed28204a1e7de  Node.js×îĞÂ¼¼ÊõÕ»Ö®PromiseÆª
+https://cnodejs.org/topic/560dbc826a1ed28204a1e7de  Node.jsæœ€æ–°æŠ€æœ¯æ ˆä¹‹Promiseç¯‡
 
-https://cnodejs.org/topic/5603cb8a152fdd025f0f5014 ¼òµ¥ÊµÏÖPromise/A+. ¶Ô×ÅÎÄµµ .º¬×¢ÊÍ
+https://cnodejs.org/topic/5603cb8a152fdd025f0f5014 ç®€å•å®ç°Promise/A+. å¯¹ç€æ–‡æ¡£ .å«æ³¨é‡Š
 
 http://www.mattgreer.org/articles/promises-in-wicked-detail/
 
-http://liubin.github.io/promises-book/#introduction JavaScript PromiseÃÔÄãÊé£¨ÖĞÎÄ°æ£©
+http://liubin.github.io/promises-book/#introduction JavaScript Promiseè¿·ä½ ä¹¦ï¼ˆä¸­æ–‡ç‰ˆï¼‰
 
 http://www.html5rocks.com/zh/tutorials/es6/promises/ JavaScript Promises
 
 http://www.2ality.com/2014/10/es6-promises-api.html
 
-http://exploringjs.com/es6/ch_promises.html Promises for asynchronous programming(ÀíÂÛ+Êµ¼ù)
+http://exploringjs.com/es6/ch_promises.html Promises for asynchronous programming(ç†è®º+å®è·µ)
 
 http://modernjavascript.blogspot.jp/2013/08/promisesa-understanding-by-doing.html
 
 https://blogs.msdn.microsoft.com/ie/2011/09/11/asynchronous-programming-in-javascript-with-promises/
 
+http://huli.logdown.com/posts/292655-javascript-promise-generator-async-es6 
