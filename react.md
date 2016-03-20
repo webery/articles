@@ -69,6 +69,8 @@ https://github.com/vczero/react-native-lesson React-Native入门指南
 
 http://reactnative.cn react native 中文网
 
+http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=663 深入源码探索 ReactNative 通信机制
+
 
 
 
