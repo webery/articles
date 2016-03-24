@@ -21,6 +21,10 @@ http://www.infoq.com/cn/articles/react-art-of-simplity 深入浅出React（一�
 
 https://github.com/yesvods/Blog/issues/5 React组件/元素与实例分析
 
+http://www.codeceo.com/article/reactjs-life-circle-event.html ReactJS 生命周期、数据流与事件
+
+https://segmentfault.com/a/1190000004660725 玩物圈前端技术栈总结（React+Redux）
+
 React-router
 
 https://github.com/reactjs/react-router
