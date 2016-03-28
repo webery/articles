@@ -8,3 +8,5 @@ https://css-tricks.com/why-npm-scripts/
 https://segmentfault.com/a/1190000000344102 用npm-run自动化任务
 
 http://www.infoq.com/cn/news/2016/02/gulp-grunt-npm-scripts-part1 我为何放弃Gulp与Grunt，转投npm scripts（上）
+
+http://www.alloyteam.com/2016/03/master-npm/ 玩转npm
