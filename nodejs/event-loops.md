@@ -15,3 +15,5 @@ http://www.baloo.io/blog/2013/11/30/node-event-driven-programming/
 http://www.ruanyifeng.com/blog/2013/10/event_loop.html 什么是 Event Loop
 
 http://www.ruanyifeng.com/blog/2014/10/event-loop.html JavaScript 运行机制详解：再谈Event Loop
+
+http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop/
