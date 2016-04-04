@@ -17,3 +17,9 @@ http://www.ruanyifeng.com/blog/2013/10/event_loop.html 什么是 Event Loop
 http://www.ruanyifeng.com/blog/2014/10/event-loop.html JavaScript 运行机制详解：再谈Event Loop
 
 http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop/
+
+https://www.ibm.com/developerworks/cn/aix/library/au-libev/ 使用 libevent 和 libev 提高网络应用性能
+
+Libuv
+
+http://www.nowx.org/uvbook/index.html 
